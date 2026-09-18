@@ -69,7 +69,7 @@ export function BlogDetail({ blog }: { blog: Blog }) {
               {blog.category}
             </span>
             <span className="rounded-full border border-[rgba(201,168,76,0.25)] bg-[rgba(201,168,76,0.05)] px-4 py-1.5 text-[9px] font-medium tracking-[0.15em] uppercase text-[#c9a84c]">
-              SS Luxe
+              CityCalls Saloon
             </span>
           </div>
 

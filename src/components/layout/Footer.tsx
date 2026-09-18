@@ -413,8 +413,8 @@ export function Footer() {
         <div className="ft-grid">
           {/* Brand */}
           <div>
-            <Link to="/" className="inline-flex items-center mb-6 transition-transform hover:-translate-y-1 duration-300">
-              <img src="/logo.png" alt="SS Luxe Salon" className="h-24 w-auto object-contain brightness-[200] contrast-[1.2]" />
+            <Link to="/" className="inline-flex items-center mb-4 transition-transform hover:-translate-y-1 duration-300">
+              <img src="/logo.png" alt="CityCalls Saloon" className="h-12 md:h-14 w-auto object-contain brightness-0 invert" />
             </Link>
 
             <p className="ft-tagline">{SITE.tagline}</p>

@@ -6,9 +6,9 @@ export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
       { title: `About — ${SITE.name}` },
-      { name: "description", content: "Inside SS Luxe Salon — our story, our team, our award-winning craft." },
+      { name: "description", content: "Inside CityCalls Saloon — our story, our team, our award-winning craft." },
       { property: "og:title", content: `About — ${SITE.name}` },
-      { property: "og:description", content: "Meet the team and the philosophy behind SS Luxe Salon." },
+      { property: "og:description", content: "Meet the team and the philosophy behind CityCalls Saloon." },
       { property: "og:url", content: "/about" },
       { property: "og:image", content: "/src/assets/about-interior.jpg" },
     ],

@@ -147,7 +147,7 @@ export function WhyChooseUsSection() {
             WebkitBackgroundClip: "text",
             backgroundClip: "text",
           }}>
-            SS Luxe
+            CityCalls Saloon
           </span>
           {" "}Difference
         </h2>

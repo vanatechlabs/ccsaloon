@@ -71,13 +71,13 @@ export function BlogsList() {
           </div>
 
           <h1 className="font-['Cormorant_Garamond',serif] text-[clamp(2.75rem,7vw,5.5rem)] font-light leading-[1.05] text-[#f5edd8]">
-            The SS Luxe{" "}
+            The CityCalls Saloon{" "}
             <em className="italic text-[#c9a84c]">Journal</em>
           </h1>
 
           <p className="mt-6 text-[12px] sm:text-[13px] font-light tracking-[0.05em] text-[rgba(245,237,216,0.55)] max-w-xl mx-auto leading-relaxed">
             Notes on beauty rituals, seasonal trends and the craft behind
-            every appointment — written by the SS Luxe Salon team.
+            every appointment — written by the CityCalls Saloon team.
           </p>
         </div>
       </header>

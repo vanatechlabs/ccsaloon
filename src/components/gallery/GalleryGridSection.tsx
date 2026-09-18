@@ -107,7 +107,7 @@ export function GalleryGridSection() {
                 {/* Bottom info */}
                 <div className="absolute inset-x-0 bottom-0 translate-y-1.5 px-3 py-3 opacity-0 transition-all duration-400 group-hover:translate-y-0 group-hover:opacity-100">
                   <p className="mb-0.5 text-[8.5px] font-medium tracking-[0.22em] uppercase text-[#c9a84c]">
-                    {g.category || "SS Luxe"}
+                    {g.category || "CityCalls Saloon"}
                   </p>
                   <p
                     className="text-[15px] font-light leading-tight text-[#f5edd8]"

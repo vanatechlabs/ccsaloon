@@ -85,7 +85,7 @@ export function AboutPreviewSection() {
 
         {/* ── Text Panel ── */}
         <div>
-          <p className="eyebrow mb-4">About SS Luxe</p>
+          <p className="eyebrow mb-4">About CityCalls Saloon</p>
           <SplitHeading
             text={"Where Beauty \n Meets Confidence"}
             className="text-foreground !text-4xl md:!text-5xl lg:!text-[3.5rem] !leading-[1.1]"

@@ -4,7 +4,7 @@ import { useInView } from "react-intersection-observer";
 import { useState } from "react";
 
 const TIMELINE = [
-  { year: "2014", title: "The Beginning", desc: "SS Luxe is founded with a single chair and a single vision.", side: "left", image: GALLERY[1].src },
+  { year: "2014", title: "The Beginning", desc: "CityCalls Saloon is founded with a single chair and a single vision.", side: "left", image: GALLERY[1].src },
   { year: "2017", title: "Award-Winning Bridal Studio", desc: "Recognised as one of the city's top bridal studios.", side: "right", image: GALLERY[2].src },
   { year: "2020", title: "New Flagship Atelier", desc: "Our black & gold flagship opens — designed by interior maestros.", side: "left", image: GALLERY[3].src },
   { year: "2023", title: "10,000+ Happy Clients", desc: "A loyal community of women who trust us with their most precious moments.", side: "right", image: GALLERY[4].src },

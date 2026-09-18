@@ -4,7 +4,7 @@ import { SITE } from "@/data/site";
 export function FloatingContact() {
   const phoneNumber = SITE.phonesRaw[0]; // Gets the primary number from your site config
   const cleanPhoneNumber = phoneNumber.replace(/\D/g, "");
-  const message = "Hello! I would like to book an appointment at SS Luxe Salon.";
+  const message = "Hello! I would like to book an appointment at CityCalls Saloon.";
   const whatsappUrl = `https://wa.me/${cleanPhoneNumber}?text=${encodeURIComponent(message)}`;
 
   return (

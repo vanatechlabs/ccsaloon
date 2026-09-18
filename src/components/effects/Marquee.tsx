@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 
 const PHRASES = [
-  { text: "SS LUXE SALON",            filled: true  },
+  { text: "CITYCALLS SALOON",         filled: true  },
   { text: "Luxury Beauty Experience", filled: false },
   { text: "Premium Salon Services",   filled: true  },
   { text: "Bridal Makeup Experts",    filled: false },

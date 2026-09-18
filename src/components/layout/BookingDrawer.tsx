@@ -117,7 +117,7 @@ export function BookingDrawer({ isOpen, onClose }: BookingDrawerProps) {
                     Request Received
                   </h3>
                   <p className="text-xs font-light tracking-wide text-[rgba(245,237,216,0.5)] leading-relaxed">
-                    Thank you for choosing SS Luxe. Our concierge will contact you shortly to confirm your booking.
+                    Thank you for choosing CityCalls Saloon. Our concierge will contact you shortly to confirm your booking.
                   </p>
                 </motion.div>
               ) : (

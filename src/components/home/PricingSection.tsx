@@ -231,13 +231,13 @@ export function PricingSection() {
               letterSpacing: ".12em",
               lineHeight: 1.15,
             }}>
-              SS Luxe{" "}
+              CityCalls{" "}
               <span style={{
                 color: "transparent",
                 background: "linear-gradient(135deg,#7a5c1a 0%,#d4af37 40%,#f7e47a 55%,#d4af37 72%,#7a5c1a 100%)",
                 WebkitBackgroundClip: "text",
                 backgroundClip: "text",
-              }}>Service</span>{" "}Price List
+              }}>Saloon Service</span>{" "}Price List
             </h2>
           </RevealText>
           <RevealText delay={0.18}>

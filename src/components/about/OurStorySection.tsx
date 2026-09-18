@@ -132,7 +132,7 @@ export function OurStorySection() {
                 className="pointer-events-none absolute -right-6 top-1/2 -translate-y-1/2 rotate-90 select-none whitespace-nowrap text-[8px] font-semibold uppercase tracking-[0.35em] text-[#b8945a]/15"
                 style={{ fontFamily: "'Montserrat', sans-serif" }}
               >
-                SS Luxe Salon
+                CityCalls Saloon
               </span>
 
               {/* Eyebrow */}
@@ -183,7 +183,7 @@ export function OurStorySection() {
                 className="font-light leading-[1.85] tracking-wide text-[#ffffff]"
                 style={{ fontFamily: "'Montserrat', sans-serif", fontSize: "13px" }}
               >
-                SS Luxe Salon began as a quiet dream — to build a sanctuary where women could
+                CityCalls Saloon began as a quiet dream — to build a sanctuary where women could
                 feel pampered, understood and genuinely transformed. A decade later, we are one
                 of the most loved luxury salons in the country.
               </p>

@@ -5,7 +5,7 @@ import { useState } from "react";
 const TESTIMONIALS = [
   {
     quote:
-      "I have been to high-end salons across the world. SS Luxe stands proudly among them — same quality, warmer hospitality.",
+      "I have been to high-end salons across the world. CityCalls Saloon stands proudly among them — same quality, warmer hospitality.",
     name: "Neha Sinha",
     role: "Fashion Editor",
     rating: 5,
@@ -32,7 +32,7 @@ const TESTIMONIALS = [
   },
   {
     quote:
-      "My bridal look was beyond a dream. The team at SS Luxe made me feel like absolute royalty — every detail was perfection.",
+      "My bridal look was beyond a dream. The team at CityCalls Saloon made me feel like absolute royalty — every detail was perfection.",
     name: "Priya Verma",
     role: "Bride · 2025",
     rating: 5,

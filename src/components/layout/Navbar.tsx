@@ -49,7 +49,7 @@ export function Navbar() {
         className={cn(
           "fixed left-0 w-full z-50 transition-all duration-700 ease-in-out",
           isHome && !isScrolled
-            ? "top-0 md:top-[40px] bg-transparent py-4"
+            ? "top-0 bg-transparent py-4"
             : "top-0 bg-[#0e1a0e]/95 backdrop-blur-md py-2 border-b border-[var(--gold)]/20 shadow-sm"
         )}
       >
@@ -87,16 +87,16 @@ export function Navbar() {
                 <div className="flex flex-col items-center min-w-[120px] xl:min-w-[160px]">
                   <img
                     src="/logo.png"
-                    alt="SS Luxe Salon"
-                    className="h-12 xl:h-16 w-auto object-contain brightness-[200] contrast-[1.2]"
+                    alt="CityCalls Saloon"
+                    className="h-12 xl:h-16 w-auto object-contain brightness-0 invert"
                   />
                 </div>
               ) : (
                 <div className="relative min-w-[120px] xl:min-w-[160px] flex justify-center items-center">
                   <img
                     src="/logo.png"
-                    alt="SS Luxe Salon"
-                    className="relative z-10 h-10 xl:h-12 w-auto object-contain drop-shadow-[0_0_6px_rgba(255,255,255,0.3)] transition-transform duration-500 hover:scale-105"
+                    alt="CityCalls Saloon"
+                    className="relative z-10 h-10 xl:h-12 w-auto object-contain transition-transform duration-500 hover:scale-105"
                   />
                 </div>
               )}

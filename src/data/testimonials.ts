@@ -11,7 +11,7 @@ export const TESTIMONIALS: Testimonial[] = [
     role: "Bride · 2025",
     rating: 5,
     quote:
-      "My bridal look was beyond a dream. The team at SS Luxe Salon made me feel like absolute royalty — every detail was perfection.",
+      "My bridal look was beyond a dream. The team at CityCalls Saloon made me feel like absolute royalty — every detail was perfection.",
   },
   {
     name: "Ananya Kapoor",
@@ -25,7 +25,7 @@ export const TESTIMONIALS: Testimonial[] = [
     role: "Fashion Editor",
     rating: 5,
     quote:
-      "I have been to high-end salons across the world. SS Luxe stands proudly among them — same quality, warmer hospitality.",
+      "I have been to high-end salons across the world. CityCalls Saloon stands proudly among them — same quality, warmer hospitality.",
   },
   {
     name: "Tara Malhotra",

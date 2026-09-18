@@ -44,7 +44,7 @@ export function GalleryPreviewSection() {
         style={{ columns: 4, columnGap: "8px" }}
       >
         {GALLERY.slice(0, 12).map((g, i) => (
-          <PinCard key={i} src={g.src} title={g.title} tag={g.category || "SS Luxe"} />
+          <PinCard key={i} src={g.src} title={g.title} tag={g.category || "CityCalls Saloon"} />
         ))}
       </div>
 

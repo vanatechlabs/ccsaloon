@@ -1,9 +1,9 @@
 export const SITE = {
-  name: "SS LUXE SALON",
-  shortName: "SS Luxe",
+  name: "CITYCALLS SALOON",
+  shortName: "CityCalls Saloon",
   tagline: "Beauty Begins Here, Confidence Stays Forever",
   description:
-    "SS Luxe Salon — a premium beauty studio offering luxury hair, skin, nails, bridal makeup and spa experiences in an opulent black & gold environment.",
+    "CityCalls Saloon — a premium beauty studio offering luxury hair, skin, nails, bridal makeup and spa experiences in an opulent black & gold environment.",
   phones: ["+91 87960 47447"] as const,
   phonesRaw: ["+918796047447"] as const,
   hours: "Mon – Sun · 10:00 AM – 9:00 PM",

@@ -125,7 +125,7 @@ export function AboutHeroSection() {
 
               {/* Title */}
               <h1 className="mb-6 whitespace-nowrap">
-                <span className="ah-title-plain">The SS Luxe</span>{" "}
+                <span className="ah-title-plain">The CityCalls Saloon</span>{" "}
                 <span className="ah-title-gold !mb-0">Story</span>
               </h1>
 

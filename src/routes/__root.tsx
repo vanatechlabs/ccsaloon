@@ -104,11 +104,11 @@ function RootComponent() {
       {/* <Preloader /> */}
       <LenisProvider />
       <AosInit />
-      <TopBar />
+      {/* <TopBar /> */}
       <Navbar />
       <SocialSidebar />
       <FloatingContact />
-      <main className="relative pt-[68px] md:pt-[100px]">
+      <main className="relative pt-[68px] md:pt-[76px]">
         <Outlet />
       </main>
       <Footer />
