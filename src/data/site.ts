@@ -4,15 +4,15 @@ export const SITE = {
   tagline: "Beauty Begins Here, Confidence Stays Forever",
   description:
     "CityCalls Saloon — a premium beauty studio offering luxury hair, skin, nails, bridal makeup and spa experiences in an opulent black & gold environment.",
-  phones: ["+91 87960 47447"] as const,
-  phonesRaw: ["+918796047447"] as const,
+  phones: ["+91 74288 08884"] as const,
+  phonesRaw: ["+917428808884"] as const,
   hours: "Mon – Sun · 10:00 AM – 9:00 PM",
   email: "hello@ssluxesalon.com",
   address: "Aya nagar bus stand with PNB Bank near Arjan garh metro station, New Delhi, Delhi 110047",
   socials: {
     instagram: "https://instagram.com/",
     facebook: "https://facebook.com/",
-    whatsapp: "https://wa.me/918796047447",
+    whatsapp: "https://wa.me/917428808884",
   },
 } as const;
 

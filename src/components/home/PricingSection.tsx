@@ -469,7 +469,7 @@ export function PricingSection() {
             Beauty Begins Here, Confidence Stays Forever.
           </p>
           <p style={{ marginTop: 8, fontSize: 10, letterSpacing: ".4em", color: "rgba(201,162,39,0.3)", textTransform: "uppercase" }}>
-            Book your appointment · 8796047447
+            Book your appointment · 7428808884
           </p>
         </div>
 

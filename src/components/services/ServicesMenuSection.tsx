@@ -114,7 +114,7 @@ const CATEGORIES = [
   },
 ];
 
-const WHATSAPP = "https://wa.me/918796047447";
+const WHATSAPP = "https://wa.me/917428808884";
 
 export function ServicesMenuSection() {
   const [active, setActive] = useState("all");
@@ -274,8 +274,8 @@ export function ServicesMenuSection() {
           Book Your Appointment Today
         </p>
         <div className="flex flex-wrap items-center justify-center gap-6 text-lg font-light text-[#c9a84c]">
-          <a href="tel:8796047447" className="flex items-center gap-2 transition-colors hover:text-[#f5edd8]">
-            <Phone className="h-4 w-4" /> 8796047447
+          <a href="tel:7428808884" className="flex items-center gap-2 transition-colors hover:text-[#f5edd8]">
+            <Phone className="h-4 w-4" /> 7428808884
           </a>
         </div>
       </footer>
