@@ -480,18 +480,8 @@ export function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="ft-col-heading">Reach Us</h4>
+            <h4 className="ft-col-heading">Get In Touch</h4>
             <ul className="ft-contact-list">
-              <li className="ft-contact-item">
-                <div className="ft-contact-icon">
-                  <MapPin size={14} strokeWidth={1.5} />
-                </div>
-                <div>
-                  <span className="ft-contact-label">Location</span>
-                  <span className="ft-contact-value">{SITE.address}</span>
-                </div>
-              </li>
-
               <li className="ft-contact-item">
                 <div className="ft-contact-icon">
                   <Phone size={14} strokeWidth={1.5} />
@@ -504,7 +494,6 @@ export function Footer() {
                   >
                     {SITE.phones[0]}
                   </a>
-
                 </div>
               </li>
 
@@ -525,6 +514,16 @@ export function Footer() {
 
               <li className="ft-contact-item">
                 <div className="ft-contact-icon">
+                  <MapPin size={14} strokeWidth={1.5} />
+                </div>
+                <div>
+                  <span className="ft-contact-label">Location</span>
+                  <span className="ft-contact-value">{SITE.address}</span>
+                </div>
+              </li>
+
+              <li className="ft-contact-item">
+                <div className="ft-contact-icon">
                   <Clock size={14} strokeWidth={1.5} />
                 </div>
                 <div>
@@ -533,6 +532,34 @@ export function Footer() {
                 </div>
               </li>
             </ul>
+
+            <div className="mt-6 pt-5 border-t border-[rgba(201,168,76,0.15)]">
+              <h4 className="ft-col-heading !mb-3">Download Our App</h4>
+              <div className="flex items-center gap-2.5 flex-wrap">
+                <a
+                  href="#"
+                  className="transition-transform hover:scale-105"
+                  aria-label="Get it on Google Play"
+                >
+                  <img
+                    src="/play.png"
+                    alt="Get it on Google Play"
+                    className="h-10 w-auto object-contain rounded"
+                  />
+                </a>
+                <a
+                  href="#"
+                  className="transition-transform hover:scale-105"
+                  aria-label="Download on the App Store"
+                >
+                  <img
+                    src="/apple.png"
+                    alt="Download on the App Store"
+                    className="h-10 w-auto object-contain rounded"
+                  />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
 

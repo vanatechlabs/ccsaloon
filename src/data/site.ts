@@ -7,8 +7,8 @@ export const SITE = {
   phones: ["+91 74288 08884"] as const,
   phonesRaw: ["+917428808884"] as const,
   hours: "Mon – Sun · 10:00 AM – 9:00 PM",
-  email: "hello@ssluxesalon.com",
-  address: "Aya nagar bus stand with PNB Bank near Arjan garh metro station, New Delhi, Delhi 110047",
+  email: "hello@citycalls.in",
+  address: "Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
   socials: {
     instagram: "https://instagram.com/",
     facebook: "https://facebook.com/",
