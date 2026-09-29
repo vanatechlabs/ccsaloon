@@ -1,9 +1,9 @@
-import serviceBeauty from "@/assets/image/Beauty.jpg";
-import serviceHair from "@/assets/image/Hair Styling.jpg";
-import serviceFacial from "@/assets/image/Facial.jpg";
-import serviceMakeup from "@/assets/image/makeup.jpg";
-import servicePedicure from "@/assets/image/mani.jpg";
-import serviceNails from "@/assets/image/nail.jpg";
+const serviceBeauty = "/assets/image/Beauty.jpg";
+const serviceHair = "/assets/image/hair-styling.jpg";
+const serviceFacial = "/assets/image/Facial.jpg";
+const serviceMakeup = "/assets/image/makeup.jpg";
+const servicePedicure = "/assets/image/mani.jpg";
+const serviceNails = "/assets/image/nail.jpg";
 
 export type ServiceCategoryKey =
   | "beauty"

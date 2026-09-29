@@ -1,10 +1,10 @@
-import img1 from "@/assets/hero-bridal.jpg";
-import img2 from "@/assets/service-hair.jpg";
-import img3 from "@/assets/service-facial.jpg";
-import img4 from "@/assets/service-nails.jpg";
-import img5 from "@/assets/service-beauty.jpg";
-import img6 from "@/assets/gallery-5.jpg";
-import img7 from "@/assets/hero-hair.jpg";
+const img1 = "/assets/hero-bridal.jpg";
+const img2 = "/assets/service-hair.jpg";
+const img3 = "/assets/service-facial.jpg";
+const img4 = "/assets/service-nails.jpg";
+const img5 = "/assets/service-beauty.jpg";
+const img6 = "/assets/gallery-5.jpg";
+const img7 = "/assets/hero-hair.jpg";
 
 export interface Blog {
   id: string;
